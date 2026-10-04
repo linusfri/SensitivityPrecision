@@ -4,4 +4,4 @@ id="sensitivity_precision"
 version="1.0.0"
 
 [autoload]
-SensitivityPrecision="res://SensitivityPrecision/SensitivityPrecision.gd"
+SensitivityPrecision="!res://SensitivityPrecision/SensitivityPrecision.gd"
